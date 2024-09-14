@@ -3,6 +3,10 @@
 ### Dataset Overview:
 + The dataset provided by Walmart Inc. contains detailed information related to customer transactions, product details, and logistics. It has 1000 rows and 30 columns, each representing a different aspect of the company's operations. Below is a detailed explanation of the columns:
 
+### Tools / Software :
++ Jupyter Notebook
++ Python
+
 ### Project Overview: 
 + The project is divided into three sprints, each focusing on different aspects of data analysis using NumPy and Pandas. The team will work collaboratively to achieve the goals set for each sprint.
 
